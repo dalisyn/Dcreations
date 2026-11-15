@@ -1,0 +1,8 @@
+{
+  "name": "Remix D creations",
+  "description": "Handcrafted ceramic and zellige tiled tables, bespoke mosaic coffee tables, dining tables, customer reviews, and workshop journal updates from D creations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
